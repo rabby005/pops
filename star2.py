@@ -9,3 +9,9 @@ a=7
 b=10
 sum=b-a
 print(sum)
+
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a%b)
