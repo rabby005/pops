@@ -3,6 +3,6 @@ age = int(input("enter your age:" ))
 marks=float(input("enter your marks:"))
 
 
-print("name:",name)
-print("age:",age)
-print("marks:",marks)
+print("Welcome:",name)
+print("Your age:",age)
+print("your marks:",marks)
